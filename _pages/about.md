@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student at School of Information, UC Berkeley. I have worked as a data scientist in the industry and researcher in academia, where most of my work centered around natural language processing. At Berkeley, I specialize in human-centered artificial intelligence with a focus on equity and fairness issues. 
+Hi! I am a master's student at UC Berkeley's School of Information, where I specialize in human-centered artificial intelligence. My academic focus is on equitable algorithms, especially on applications in minority issues and non-western contexts. Before grad school, I worked in data science and acaedemic research, where most of my work centered around natural language processing. Feel free to reach out if any of this interests you!
