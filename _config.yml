@@ -84,12 +84,12 @@ author:
   avatar           : "profile.jpg"
   bio              : "Graduate student at UC Berkeley"
   location         : "Berkeley, California"
-  resume           : "https://drive.google.com/file/d/1zO_VYiC0VvjUGvw7PKXc1ZDOiVmrN8Fh/view?usp=sharing"
+  resume           : 
   pubmed           : 
   googlescholar    : 
   email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              :  "https://drive.google.com/file/d/1zO_VYiC0VvjUGvw7PKXc1ZDOiVmrN8Fh/view?usp=sharing"
   bitbucket        :
   codepen          :
   dribbble         :
