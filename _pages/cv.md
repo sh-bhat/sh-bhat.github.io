@@ -1,59 +1,39 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Experience"
+permalink: /exp/
 author_profile: true
 redirect_from:
-  - /resume
+  - /exp
 ---
 
 {% include base_path %}
 
-Education
+Industry
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Summer 2022: Research, Sony AI
+  * Fairness and interpretability for Multilingual NLP
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019 - 2021: Data Science, Dell Technologies
+  * Intelligent Automation, Human-in-the-loop question answering
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Academia
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2019: Research, EPFL
+  * Machine Learning and Optimization Lab
+  * Fairness objectives for training word embeddings
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Spring 2019: Research, International Institute of Information Technology
+  * Extractive Summarization
+  * Modeling code-mixed low-resource languages
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Data and Decisions [Haas School of Business, UC Berkeley, Fall 2022]
+* Computational Models of Cognition [Psychology Department, Spring 2022]
+* Data History [Media Studies, Fall 2021]
+
+Courses
 ======
-* Currently signed in to 43 different slack teams
+* Berkeley EECS: Machine Learning, Natural Language Processing, Audio and Speech Processing, Deep Neural Networks, Computer Vision
+* Berkeley ischool: Quantitative and Qualitative Research Methods, Experiments and Causal Inference, Information Law and Policy
