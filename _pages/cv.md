@@ -35,5 +35,15 @@ Teaching
 
 Courses
 ======
-* Berkeley EECS: Machine Learning, Natural Language Processing, Audio and Speech Processing, Deep Neural Networks, Computer Vision
-* Berkeley ischool: Quantitative and Qualitative Research Methods, Experiments and Causal Inference, Information Law and Policy
+* Berkeley EECS
+  *  Machine Learning
+  *  Natural Language Processing
+  *  Speech Processing
+  *  Deep Neural Networks
+  *  Computer Vision
+
+* Berkeley ischool
+  *  Quantitative and Qualitative Research
+  *  Experiments and Causal Inference
+  *  Information Law and Policy
+  *  Social Issues of Information
