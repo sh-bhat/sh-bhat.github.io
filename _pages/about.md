@@ -13,7 +13,7 @@ Before grad school, I worked in data science and acaedemic research, where most 
 
 
 Updates
-=======
+------
 * [September 2022] Awarded the GHC Scholarship and will be attending virtually
 * [June 2022] Attending FAccT 22 virtually
 * [Summer 2022] In NYC and Tokyo for internship with the ethics team at Sony AI
