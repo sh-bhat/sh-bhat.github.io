@@ -19,7 +19,7 @@ Updates
 * [September 2023] Started working at Meta
 * [May 2023] Graduated!
 * [January 2023] Started research at [CITRIS and the Banatao Institute](https://citrispolicylab.org/ourbetterweb/)
-* [January 2023] Teaching Human Contexts and Ethics at UC Berkeley [CITRIS and the Banatao Institute](https://data.berkeley.edu/human-contexts-and-ethics)
+* [January 2023] Teaching [Human Contexts and Ethics](https://data.berkeley.edu/human-contexts-and-ethics)
 * [October 2022] Started research at [Othering and Belonging Institute](https://belonging.berkeley.edu)
 * [September 2022] Awarded GHC Scholarship
 * [June 2022] Attending FAccT 22
